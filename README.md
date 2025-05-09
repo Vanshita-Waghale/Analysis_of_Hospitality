@@ -1,6 +1,3 @@
-For your GitHub repository description, aim for a **clear, concise, and professional summary** that highlights the purpose, tools used, and the impact of your project. Here's a suitable and effective description you can use or tweak for your Hospitality Data Analysis Project:
-
----
 
 ### 🔍 Hospitality Data Analysis Project using Python
 
@@ -21,6 +18,4 @@ The goal was to uncover insights through **exploratory data analysis (EDA)** to 
 **🛠️ Tools & Technologies:**
 Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
----
 
-Would you like me to create a professional README.md file structure for this repository too?
